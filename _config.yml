@@ -19,9 +19,9 @@
 
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
+url:              'https://mjlugorodz.github.io/Mlugo/'
 baseurl:          '/wax'
-copyright:        'https://mjlugorodz.github.io/Mlugo/'
+copyright:        'Example copyright 2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
 
