@@ -19,8 +19,8 @@
 
 title:            'Archivo Santaliz'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://mjlugorodz.github.io/Mlugo/'
-baseurl:          '/wax'
+url:              'https://mjlugorodz.github.io'
+baseurl:          '/Mlugo'
 copyright:        'Example copyright 2025'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
