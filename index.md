@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: PR
+  collection: qatar
   pid: obj10
   y: 25%
   clickable: yes
