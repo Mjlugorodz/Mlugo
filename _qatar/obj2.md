@@ -12,5 +12,4 @@ layout: qatar_item
 collection: qatar
 thumbnail: "/img/IMG_4020.jpeg"
 full: "/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj2/manifest.json"
 ---
