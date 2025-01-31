@@ -11,5 +11,5 @@ order: '01'
 layout: qatar_item
 collection: qatar
 thumbnail: "/img/IMG_4020.jpeg"
-full: "/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg"
+full: "/img/IMG_4020.jpeg"
 ---
